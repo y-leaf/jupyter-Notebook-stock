@@ -1,3 +1,3 @@
-Stock comparison model (IBM, Amazon, Microsoft)
-Stock prediction model
-using Jupyter Notebooks on IBM Cloud Pak for Data 
+Using Jupyter Notebooks on IBM Cloud Pak for Data
+1. Stock comparison model (IBM, Amazon, Microsoft)
+2. Stock prediction model 
