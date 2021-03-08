@@ -22,7 +22,7 @@ Follow these steps to set up. The steps are described in detail below.
 1. [Create Watson Studio Service and Project](#1-create-watson-studio-service-and-project)
 2. [Add Notebook to the project](#2-add-notebook-to-the-project)
 3. [Check each line on Notebook](#3-check-each-line-on-notebook)
-4. [Slack API with Incomming Webhook](#4-slack-api-with-incomming-webhook)
+4. [Slack API with Incoming Webhook](#4-slack-api-with-incomming-webhook)
 5. [Create a job](#5-create-a-job)
 
 --------------------
