@@ -7,7 +7,7 @@
 * [IBM Cloud Account](https://cloud.ibm.com/)
 
 ## Setup
-Download [predict_stock.ipynd](predict_stock.ipynd) with `wget` command into your directory:
+Download [predict_stock.ipynb](predict_stock.ipynb) with `wget` command into your directory:
 
 ```bash
 $cd <directory which you want to install the file>
@@ -42,7 +42,7 @@ Follow these steps to set up. The steps are described in detail below.
 
 1. Choose Notebook from "Add to project+
 
-2. Upload [predict_stock.ipynd](predict_stock.ipynd) to the Notebook
+2. Upload [predict_stock.ipynb](predict_stock.ipynb) to the Notebook
 
 
 --------------------
