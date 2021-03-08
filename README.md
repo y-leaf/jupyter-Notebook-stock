@@ -95,7 +95,7 @@ post_url="<Slack Webhook URL>"
 
 3. You can arrange slack notification message
 
-* add <username>
+* add your name after "Hi, < >"
 * change slack emoji using `:<emoji_name>:`
 
 ```bash
